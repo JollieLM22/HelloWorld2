@@ -7,5 +7,9 @@ public class HelloWorld {
         String name = scan.next();
         System.out.println("Hello " + name);
 
+
+        System.out.println("Your name is what? ");
+        System.out.println("My name is " + name);
+
     }
 }
